@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-07T10:07:51 IST" name="Default suite" finished-at="2024-07-07T10:08:16 IST" duration-ms="25100">
+    <groups>
+    </groups>
+    <test started-at="2024-07-07T10:07:51 IST" name="Default test" finished-at="2024-07-07T10:08:16 IST" duration-ms="25100">
+      <class name="RKSoftware.ExtentReports.extentReports">
+        <test-method is-config="true" signature="config()[pri:0, instance:RKSoftware.ExtentReports.extentReports@4b741d6d]" started-at="2024-07-07T10:07:51 IST" name="config" finished-at="2024-07-07T10:07:52 IST" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="initialDemo()[pri:0, instance:RKSoftware.ExtentReports.extentReports@4b741d6d]" started-at="2024-07-07T10:07:52 IST" name="initialDemo" finished-at="2024-07-07T10:08:16 IST" duration-ms="24214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+      </class> <!-- RKSoftware.ExtentReports.extentReports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
